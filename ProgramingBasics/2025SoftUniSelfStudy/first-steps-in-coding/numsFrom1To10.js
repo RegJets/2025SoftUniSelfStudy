@@ -1,4 +1,4 @@
-function numsFrom1To10(){
+function nums1to10(){
     console.log(1);
     console.log(2);
     console.log(3);
@@ -11,4 +11,4 @@ function numsFrom1To10(){
     console.log(10);
     
 }
-numsFrom1To10();
+nums1to10();
