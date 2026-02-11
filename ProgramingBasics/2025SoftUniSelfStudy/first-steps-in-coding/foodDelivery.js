@@ -12,4 +12,4 @@ const deliveryPrice =  2.50
 const orderPrice = FullOrderPrice + DesertPrice + deliveryPrice
 console.log (orderPrice);
 }
-foodDelivery(2, 4, 3)
+foodDelivery(9, 2, 6)

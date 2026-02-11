@@ -8,4 +8,4 @@ function aquarium(length, width, height, percent) {
     console.log(neededLiters);
 }
 
-aquarium(85, 75, 47, 17);
+aquarium(105, 77, 89, 18.50);

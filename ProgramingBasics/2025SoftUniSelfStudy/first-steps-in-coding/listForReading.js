@@ -1,6 +1,7 @@
-function reading(listForReading){
-let readingtitime = listForReading / 20
-console.log(readingtitime/2);
+function vacationBookList(bookLists, readingListsForOneHour, daysForReading){
+    let timeForReading = bookLists / readingListsForOneHour;
+    let neededHoursForDay = timeForReading / daysForReading;
+    console.log(neededHoursForDay)
 }
+vacationBookList(432, 15, 4);
 
-reading(212)

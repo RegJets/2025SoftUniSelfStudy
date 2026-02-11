@@ -8,4 +8,4 @@ console.log(allBasketballEq);
 
 }
 
-basketballEq(365);
+basketballEq(550);
